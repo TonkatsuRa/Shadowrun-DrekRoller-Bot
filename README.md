@@ -8,3 +8,4 @@ You can now use /help for an interactive menu or /city and see all the autocompl
 The bot needs new permissions for adding reactions, so I needed to create a new link: 
 https://discord.com/api/oauth2/authorize?client_id=1104876798648528977&permissions=9314845060160&scope=bot%20applications.commands
 
+If you like my bot and want to help me cover the server costs: https://www.buymeacoffee.com/TonkatsuRamen
